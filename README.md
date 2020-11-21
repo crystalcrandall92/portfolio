@@ -1,7 +1,12 @@
-ReadMe for CrystalCrandall_Portfolio
+# Crystal Crandall Portfolio
 
-Created a About, Contact and Portfolio page with navigation that links to respectable pages using Bootstrap columns and style. Included personal information as well as profile picture. Made sure to keep consistency in terms of placement with columns, headers, and navigation bar. 
+## Table of Contents
+1. [Description](#description)
 
-Finished with upload to Github repository and included ReadMe
+### Description
+Portfolio for Crystal Crandall including contact information, resume, and portfolio.
 
-![example](example.jpg)
+### Questions and Contact Information Below
+#### Github Username: crystalcrandall92
+#### Github Link: https://github.com/crystalcrandall92
+#### Email: crystalcrandall92@yahoo.com
